@@ -2,7 +2,7 @@
 
 # Hi, I'm Osarumen Izedonmwen 👋
 
-Software Engineer Intern @ **Solink** · CS @ **Western University** (Minor in Software Engineering) · Founder @ **RUMII**
+Incoming Software Engineer Intern @ **Shopify** · CS @ **Western University** (Minor in Software Engineering) · Founder @ **RUMII**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rumenized)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osarumenized@gmail.com)

@@ -13,7 +13,7 @@ Software Engineer Intern @ **Solink** · CS @ **Western University** (Minor in S
 ---
 
 ## 💼 Experience
-
+- **Incoming @ Shopify**
 - **Solink** — SWE Intern *(May 2026–Present)*: Remote DNS config feature across a cloud platform, NAS devices, and Linux recording devices; GitHub Actions CI/CD pipelines.
 - **RUMII** — Founder *(June 2025–Present)*: React Native roommate-matching app, 1,000+ users, **Best Real-World Impact award** (CTS). 1.4s→100ms load times; WebSocket/STOMP + Redis messaging.
 - **Teesas Education** — SWE Intern *(May–Aug 2024)*: 45% API latency cut for 10,000+ users; Swagger docs + Postman collections for 30+ endpoints; 8 new NestJS features.
